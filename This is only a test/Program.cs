@@ -12,6 +12,29 @@ namespace This_is_only_a_test
     {
         static void Main(string[] args)
         {
+            /*
+            int i = 1000;
+            byte b = i;
+
+            sbyte sb = sbyte.Parse("400");
+
+            ushort us = -1;
+
+            short s = 99999;
+
+            uint ui = -10;
+
+            int i = 2222222222;
+
+            float fl = "aaa";
+
+            decimal dec1 = 2m;
+            double dou = dec1;
+
+            decimal dec = ulong.MaxValue * 2;
+            */
+            
+            /*
             WindowWidth += 20;
 
 
@@ -42,7 +65,7 @@ namespace This_is_only_a_test
 
             WriteLine("{0}\n", string.Join(" ", binDec2));
             WriteLine("{0}\n", dec2);
-
+            */
 
 
             ReadKey(true);
